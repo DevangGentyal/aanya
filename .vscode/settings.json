@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "memory": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
