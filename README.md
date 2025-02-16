@@ -1,16 +1,87 @@
-# Aanya
+# Aanya - Dynamic MultiModal A.I. 🤖
 
-A new Flutter project.
+## Vision
+Aanya is designed to be more than just an AI assistant. Our goal is to create a comprehensive companion with advanced capabilities that enhance user experience by making daily tasks seamless and efficient.
 
-## Getting Started
+---
+## Features
 
-This project is a starting point for a Flutter application.
+### 🎨 Multimodal Capabilities
+- **Text Generation**: Generate text-based responses for a variety of use cases.
+- **Image Generation**: AI-powered image creation based on user prompts.
+- **Image Description**: Analyzes and describes images with contextual accuracy.
 
-A few resources to get you started if this is your first Flutter project:
+### 🌍 Multilingual Support
+- **International Languages**: Supports multiple global languages.
+- **Indian Language Support**: Specifically supports **Hindi** for native users.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🖥️ Cross-Platform Compatibility
+- Available on **Windows**, **MacOS**, **Android**, and **iOS** (as an app).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔗 App Integrations
+- **Opens Applications**: Launch applications directly through voice commands.
+- **YouTube Search**: Search and play YouTube videos using Aanya.
+- **Spotify Music Playback**: Directly play songs from Spotify.
+
+### 🧭 Seamless Navigation
+- **Smooth and responsive navigation functions** for user ease.
+
+### 🎙️ Voice-Enabled Interaction
+- **Full voice interaction support** to enhance user convenience.
+
+### 🔄 Device Switching Capability
+- **"Aanya, come to my Desktop"**: Switch between devices within the ecosystem effortlessly.
+
+### 🏆 3D Model Representation
+- **Aanya is represented as a lively, animated 3D model**, making interactions more engaging.
+
+---
+## 🛠️ Tech Stack
+- **Development Environment**: Visual Studio Code
+- **Framework**: Flutter (for full development)
+- **Languages**: Dart
+- **APIs**: Gemini AI Model API (trained for Aanya)
+
+---
+## 🚀 Setup Instructions
+
+### Prerequisites
+Ensure you have the following installed:
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+
+### Installation
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/DevangGentyal/aanya.git
+   cd aanya
+   ```
+2. **Install Dependencies**
+   ```sh
+   flutter pub get
+   ```
+3. **Setup API Keys**
+   - Create a `.env` file in the root directory and add the following keys:
+   ```env
+   GEMINI_API_KEY=your_api_key_here
+   SPOTIFY_API_KEY=your_spotify_key_here
+   more
+   ```
+4. **Run the App**
+   ```sh
+   flutter run
+   ```
+
+---
+## 📌 Future Scope
+- **Integration with Home Automation**: Control smart home devices with Aanya.
+- **Expansion to All Regional Indian Languages**.
+- **More Human-like Speech for a Natural Conversational Experience**.
+
+---
+## 🤝 Contributors
+- **Devang Gentyal**
+- **Shouryan Bharote**
+- **Chirag Patil**
+
+---
